@@ -3,11 +3,11 @@ LBAW 2017/2018 project
 # A1: Collaborative news
  
 > goals, business context and environment
-  Objetivos
+> Objetivos
     
-  Contexto de Negócio
+> Contexto de Negócio
     
-  Ambiente de Negócio
+> Ambiente de Negócio
     
 > Motivação
   
@@ -25,4 +25,4 @@ Changes made to the first submission:
  
 ***
  
-GROUP17xx, xx/xx/2018
+GROUP1737, 05/02/2018
